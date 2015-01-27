@@ -42,7 +42,7 @@
      
      
 
-[@Contact me](guoyulin_nanjing@hotmail.com)
+Contact me : guoyulin_nanjing@hotmail.com
     
     
 
