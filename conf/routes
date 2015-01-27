@@ -1,0 +1,8 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+#run log
+POST  /events/runlogs       controllers.RunLogs.create()
+
+    
