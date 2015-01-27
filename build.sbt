@@ -1,6 +1,6 @@
 import play.Project._
 
-name := "logCollect"
+name := "collectEvents"
 
 version := "1.0"
 
